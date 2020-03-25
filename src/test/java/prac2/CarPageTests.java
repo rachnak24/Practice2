@@ -7,7 +7,7 @@ public class CarPageTests
 	@Test
 	public void CarLoanLogin()
 	{
-		System.out.println("buy a new car");
+		System.out.println("buy a new highlander");
 	}
 	
 	@Test
